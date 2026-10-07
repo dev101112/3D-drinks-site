@@ -1,0 +1,6 @@
+{
+  "name": "Diet Soda | Pure Zero Refreshment",
+  "description": "Experience the crisp, clean taste of Diet Soda. Zero sugar, zero compromise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
